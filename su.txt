@@ -1,0 +1,11 @@
+this is sunil testing file
+adding more line in it
+addingf more one line in it
+show my account
+date
+time
+ls
+ll
+ls -a
+ll [C[C
+ls -al
